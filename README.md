@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello! I'm a university professor/researcher based on Brazil. Programming is fun, so I do a little bit of it! Usually with Javascript, because the web, but in the last few years I've been learning tons of Python.
+
+📫 How to reach me: ...
+
+https://www.cin.ufpe.br/~jhcp/
+
+https://twitter.com/joaohenriquep
 
 <!--
 **jhcp/jhcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
