@@ -1,4 +1,4 @@
-Hello! I'm a university professor/researcher based on Brazil. Programming is fun, so I do a little bit of it! Usually with Javascript, because the web, but in the last few years I've been learning tons of Python.
+Hello! I'm a Brazilian software engineer who currently works as a university professor/researcher. The languages I use the most are Python and Javascript, but I've also developed projects with Java, R and PHP before.
 
 📫 How to reach me: ...
 
