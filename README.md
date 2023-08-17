@@ -1,10 +1,8 @@
-Hello! I'm a Brazilian software engineer who currently works as a university professor/researcher. The languages I use the most are Python and Javascript, but I've also developed projects with Java, R and PHP before.
+Hello! I'm a Brazilian software engineer who previously worked as a fulltime university professor/researcher. I currently work as fullstack with React, Java and Go on a platform engineering tool for Kubernetes.
 
 📫 How to reach me: ...
 
-https://www.cin.ufpe.br/~jhcp/
-
-https://twitter.com/joaohenriquep
+https://www.linkedin.com/in/jhcp/
 
 <!--
 **jhcp/jhcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
