@@ -1,4 +1,4 @@
-Hello! I'm a Brazilian software engineer who previously worked as a fulltime university professor/researcher. I currently work as fullstack with React, Java and Go on a platform engineering tool for Kubernetes.
+Hello! I'm a Brazilian software engineer who previously worked as a fulltime university professor/researcher. I currently work as fullstack with React, Java and Go on a Kubernetes observability tool.
 
 📫 How to reach me: ...
 
